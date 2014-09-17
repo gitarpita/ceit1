@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Doing work in lab
+=======
+hi hello
+>>>>>>> ddc46ac824524a592eec43102e9b42aa29c7f370
